@@ -1,4 +1,4 @@
-![Certificate_KIT](https://github.com/tcsousa99/Confocal2PSD/assets/63201820/dca7b483-07ea-4ab7-8187-cbd745a9ede1)The following program takes data from roughness measurements using a confocal microscopy and transforms it into 2 dimensional Power Spectral Distribution plots.
+The following program takes data from roughness measurements using a confocal microscopy and transforms it into 2 dimensional Power Spectral Distribution plots.
 
 To use this program the following Python 3.11 libraries are necessary: numpy, scipy and matplotlib. The use of Anaconda and VSCode is recommended, and makes the process much faster.
 
