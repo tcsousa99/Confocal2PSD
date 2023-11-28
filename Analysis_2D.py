@@ -174,7 +174,7 @@ show = False
 results_prefix = './Results_Analysis2D/' #The "." before the / means that the path starts where this folder is
 path_to_data_prefix = './Data/' #Path to where the data is stored
 MAGNIFICATION = 'x50' #magnification used for the calculations
-sample_list = ['M100', 'M101', 'M102', 'M103']
+sample_list = ['039-SS', '153-SS', '673-SS', '687-SS', '689-SS', '694-SS', '737-SS','755-SS', 'Au-Si-01', 'Au-Si-02']
 PLACE = 'BASEL_v'
 #### SAMPLES M100, M101, M102, M103 TOMÁS #####
 
